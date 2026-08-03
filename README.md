@@ -18,7 +18,7 @@ Disable Ambience is currently in BETA, the mod simply only disables GameObject p
 - Drag and drop 'Disable Ambience" to your plugins folder under a path like ***"C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins"***
 
 ## Bug Reports
-* **Found a Bug?** Please open an issue on the [Issues](https://github.com/ttcrxziOfficial/Disable-Ambience/issues), describing your issue.
+* **Found a Bug?** [Issues](https://github.com/ttcrxziOfficial/Disable-Ambience/issues)
 
 
 ## License
