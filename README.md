@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/ttcrxziOfficial/Disable-Ambience/blob/main/disableambienceicon.png" width"15">
+    <img src="https://github.com/ttcrxziOfficial/Disable-Ambience/blob/main/disableambienceicon.png" width"90">
 </p>
 <h4 align="center">'Disable Ambience' disables all wind, weather, and any other ambience audio/effects, the mod is currently in beta and should not be expected to be advanced yet</h1>
 
